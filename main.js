@@ -1,1 +1,1 @@
-console.log('Hello world');
+console.log("Vitalii Haruk 3KH lab1 ")
